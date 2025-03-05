@@ -1,4 +1,4 @@
-![logo](https://github.com/isouravanand/isouravanand/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
+![logo](https://github.com/isouravanand/isouravanand/blob/799e89434a8e20288b098cffce344b62b0b42aa6/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Sourav Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" style="margin-top: 30px;">
